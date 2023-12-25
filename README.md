@@ -4,9 +4,12 @@
 
 `FICrawler` 是一个基于 [Puppeteer](https://github.com/puppeteer/puppeteer) 的 Node.js 网络爬虫演示项目。该项目专注于定时抓取金融压力指数（Financial Stress Index，FSI）,并将指数通过企业微信进行通知，以达到及时获取最新数据的目的，作为一个爬虫到通知的生产力工具的演示。
 
-项目所有代码都是由[ChatGPT4](https://chat.openai.com/)生成，展示了GPT在解决金融数据获取场景下，通过简单编码解决问题方面的能力。
+项目所有代码都是由[ChatGPT4](https://chat.openai.com/)生成，展示了GPT在解决金融数据获取场景下，通过编码解决问题方面的能力。
 
 FSI 是一个重要的金融市场指标，通常从 [FSI 官网](https://www.financialresearch.gov/financial-stress-index/) 获取，用于衡量市场压力和经济状况。本项目抓取的是金融研究办公室金融压力指数（OFR FSI）： 几乎更新，OFR FSI提供全球金融市场压力的即时快照，综合了33个金融市场变量，如收益率差、估值措施和利率等。当压力水平高于平均水平时，该指数为正；当压力水平低于平均水平时，该指数为负。指数值是市场上观察到的每个变量的加权平均水平，相对于其历史水平。
+
+![image](https://github.com/franksunye/FICrawler/assets/1393601/54d08ab1-f6d6-441c-b200-d661af1943d5)
+
 
 ## 特点
 
