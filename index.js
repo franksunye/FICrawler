@@ -2,6 +2,11 @@ const axios = require('axios');
 const puppeteer = require('puppeteer');
 const winston = require('winston');
 
+const phoneNumber = "你的手机号";
+const postUrl = 'https://qyapi.weixin.qq.com/cgi-bin/webhook/send?key=KEY';
+const gotoUrl = 'https://www.financialresearch.gov/financial-stress-index/';
+
+
 // 配置Winston日志记录器
 const logger = winston.createLogger({
     level: 'info',
@@ -29,12 +34,12 @@ async function sendToWebhook(currentIndex, formattedDate) {
         msgtype: "text",
         text: {
             content: `美国今日FSI指数 (Financial Stress Index) 是：${currentIndex}，指数发布时间 ${formattedDate}。FSI是一种衡量金融市场压力的指标。这个指数通常由美国各大银行或金融机构编制, 用于反映金融市场的整体状况, 包括流动性、信用风险和市场波动性等方面。`,
-            mentioned_mobile_list: ["18600372156"]
+            mentioned_mobile_list: [phoneNumber]
         }
     };
 
     try {
-        const response = await axios.post('https://qyapi.weixin.qq.com/cgi-bin/webhook/send?key=757f09da-1f82-453d-b24f-aeddb17c04a0', postData);
+        const response = await axios.post(postUrl, postData);
         logger.info('数据发送到Webhook成功', response.data);
     } catch (error) {
         logger.error(`发送到Webhook时发生错误: ${error.message}`);
@@ -58,7 +63,7 @@ async function scrapeData() {
 
         logger.info('导航到网页');
         const startNavigationTime = new Date();
-        await page.goto('https://www.financialresearch.gov/financial-stress-index/', { waitUntil: 'networkidle2', timeout: 60000 });
+        await page.goto(gotoUrl, { waitUntil: 'networkidle2', timeout: 60000 });
         logger.info(`导航完成，耗时: ${new Date() - startNavigationTime}ms`);
 
         const selectorIndex = '.latest-daily-observation .header span';
