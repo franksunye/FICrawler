@@ -2,8 +2,8 @@ const axios = require('axios');
 const puppeteer = require('puppeteer');
 const winston = require('winston');
 
-const phoneNumber = "你的手机号";
-const postUrl = 'https://qyapi.weixin.qq.com/cgi-bin/webhook/send?key=KEY';
+const phoneNumber = "18600372156";
+const postUrl = 'https://qyapi.weixin.qq.com/cgi-bin/webhook/send?key=4fbae71d-8d83-479f-a2db-7690eeb37a5c';
 const gotoUrl = 'https://www.financialresearch.gov/financial-stress-index/';
 
 

@@ -211,3 +211,612 @@
 2023-11-22 12:17:57 [INFO] - 浏览器已关闭
 2023-11-22 12:17:58 [INFO] - 数据发送到Webhook成功
 2023-11-22 12:17:58 [INFO] - 抓取数据完成
+2024-01-04 12:38:51 [INFO] - 开始执行定时任务
+2024-01-04 12:39:11 [INFO] - 数据发送到Webhook成功
+2024-01-04 12:39:11 [INFO] - 抓取数据完成
+2024-01-04 12:39:11 [INFO] - 定时任务执行结束
+2024-01-04 12:46:01 [INFO] - 开始执行定时任务
+2024-01-04 12:46:01 [INFO] - 启动浏览器
+2024-01-04 12:46:03 [INFO] - 浏览器启动，耗时: 1280ms
+2024-01-04 12:46:03 [INFO] - 打开新页面
+2024-01-04 12:46:03 [INFO] - 新页面打开，耗时: 0ms
+2024-01-04 12:46:03 [INFO] - 导航到网页
+2024-01-04 12:46:18 [INFO] - 导航完成，耗时: 14275ms
+2024-01-04 12:46:18 [INFO] - 当前指数: -1.404
+2024-01-04 12:46:18 [INFO] - 日期信息: Mon. Jan. 01, 2024 (not seasonally adjusted)
+2024-01-04 12:46:18 [INFO] - 格式化日期: Monday, 01/01/2024
+2024-01-04 12:46:19 [INFO] - 浏览器已关闭
+2024-01-04 12:46:19 [INFO] - 数据发送到Webhook成功
+2024-01-04 12:46:19 [INFO] - 抓取数据完成
+2024-01-04 12:46:19 [INFO] - 定时任务执行结束
+2024-01-04 12:51:14 [INFO] - 开始执行定时任务
+2024-01-04 12:51:14 [INFO] - 启动浏览器
+2024-01-04 12:51:15 [INFO] - 浏览器启动，耗时: 1173ms
+2024-01-04 12:51:15 [INFO] - 打开新页面
+2024-01-04 12:51:15 [INFO] - 新页面打开，耗时: 0ms
+2024-01-04 12:51:15 [INFO] - 导航到网页
+2024-01-04 12:51:29 [INFO] - 导航完成，耗时: 13700ms
+2024-01-04 12:51:30 [INFO] - 当前指数: -1.404
+2024-01-04 12:51:30 [INFO] - 日期信息: Mon. Jan. 01, 2024 (not seasonally adjusted)
+2024-01-04 12:51:30 [INFO] - 格式化日期: Monday, 01/01/2024
+2024-01-04 12:51:30 [INFO] - 浏览器已关闭
+2024-01-04 12:51:31 [INFO] - 数据发送到Webhook成功
+2024-01-04 12:51:31 [INFO] - 抓取数据完成
+2024-01-04 12:51:31 [INFO] - 定时任务执行结束
+2024-01-04 12:52:45 [INFO] - 开始执行定时任务
+2024-01-04 12:52:45 [INFO] - 启动浏览器
+2024-01-04 12:52:46 [INFO] - 浏览器启动，耗时: 1157ms
+2024-01-04 12:52:46 [INFO] - 打开新页面
+2024-01-04 12:52:46 [INFO] - 新页面打开，耗时: 0ms
+2024-01-04 12:52:47 [INFO] - 导航到网页
+2024-01-04 12:53:01 [INFO] - 导航完成，耗时: 13915ms
+2024-01-04 12:53:01 [INFO] - 当前指数: -1.404
+2024-01-04 12:53:01 [INFO] - 日期信息: Mon. Jan. 01, 2024 (not seasonally adjusted)
+2024-01-04 12:53:01 [INFO] - 格式化日期: Monday, 01/01/2024
+2024-01-04 12:53:02 [INFO] - 浏览器已关闭
+2024-01-04 12:53:03 [INFO] - 数据发送到Webhook成功
+2024-01-04 12:53:03 [INFO] - 抓取数据完成
+2024-01-04 12:53:03 [INFO] - 定时任务执行结束
+2024-01-04 12:53:08 [INFO] - 开始执行定时任务
+2024-01-04 12:53:08 [INFO] - 启动浏览器
+2024-01-04 12:53:09 [INFO] - 浏览器启动，耗时: 1242ms
+2024-01-04 12:53:09 [INFO] - 打开新页面
+2024-01-04 12:53:09 [INFO] - 新页面打开，耗时: 0ms
+2024-01-04 12:53:10 [INFO] - 导航到网页
+2024-01-04 12:53:25 [INFO] - 导航完成，耗时: 15026ms
+2024-01-04 12:53:26 [INFO] - 当前指数: -1.404
+2024-01-04 12:53:26 [INFO] - 日期信息: Mon. Jan. 01, 2024 (not seasonally adjusted)
+2024-01-04 12:53:26 [INFO] - 格式化日期: Monday, 01/01/2024
+2024-01-04 12:53:26 [INFO] - 浏览器已关闭
+2024-01-04 12:53:27 [INFO] - 数据发送到Webhook成功
+2024-01-04 12:53:27 [INFO] - 抓取数据完成
+2024-01-04 12:53:27 [INFO] - 定时任务执行结束
+2024-01-04 12:56:38 [INFO] - 开始执行定时任务
+2024-01-04 12:56:38 [INFO] - 启动浏览器
+2024-01-04 12:56:39 [INFO] - 浏览器启动，耗时: 1208ms
+2024-01-04 12:56:39 [INFO] - 打开新页面
+2024-01-04 12:56:39 [INFO] - 新页面打开，耗时: 0ms
+2024-01-04 12:56:40 [INFO] - 导航到网页
+2024-01-04 12:56:44 [INFO] - 导航完成，耗时: 4566ms
+2024-01-04 12:56:50 [INFO] - 当前指数: -1.404
+2024-01-04 12:56:50 [INFO] - 日期信息: Mon. Jan. 01, 2024 (not seasonally adjusted)
+2024-01-04 12:56:50 [INFO] - 格式化日期: Monday, 01/01/2024
+2024-01-04 12:56:50 [INFO] - 浏览器已关闭
+2024-01-04 12:56:51 [INFO] - 数据发送到Webhook成功
+2024-01-04 12:56:51 [INFO] - 抓取数据完成
+2024-01-04 12:56:51 [INFO] - 定时任务执行结束
+2024-01-04 13:07:37 [INFO] - 开始执行定时任务
+2024-01-04 13:07:37 [INFO] - 启动浏览器
+2024-01-04 13:07:38 [INFO] - 浏览器启动，耗时: 995ms
+2024-01-04 13:07:38 [INFO] - 打开新页面
+2024-01-04 13:07:38 [INFO] - 新页面打开，耗时: 0ms
+2024-01-04 13:07:38 [INFO] - 导航到网页
+2024-01-04 13:07:50 [INFO] - 导航完成，耗时: 11368ms
+2024-01-04 13:07:50 [INFO] - Current Index: -1.404, Date Info: Mon. Jan. 01, 2024 (not seasonally adjusted), Formatted Date: Monday, 01/01/2024
+2024-01-04 13:07:50 [INFO] - 浏览器已关闭
+2024-01-04 13:07:50 [ERROR] - 抓取数据时发生错误: page.screenshot: Target page, context or browser has been closed
+2024-01-04 13:07:50 [ERROR] - 抓取过程中发生错误
+2024-01-04 13:07:50 [INFO] - 定时任务执行结束
+2024-01-04 13:08:47 [INFO] - 开始执行定时任务
+2024-01-04 13:08:47 [INFO] - 启动浏览器
+2024-01-04 13:08:48 [INFO] - 浏览器启动，耗时: 800ms
+2024-01-04 13:08:48 [INFO] - 打开新页面
+2024-01-04 13:08:48 [INFO] - 新页面打开，耗时: 0ms
+2024-01-04 13:08:48 [INFO] - 导航到网页
+2024-01-04 13:08:59 [INFO] - 导航完成，耗时: 10680ms
+2024-01-04 13:08:59 [INFO] - Current Index: -1.404, Date Info: Mon. Jan. 01, 2024 (not seasonally adjusted), Formatted Date: Monday, 01/01/2024
+2024-01-04 13:09:00 [INFO] - Screenshot saved at: screenshot.png
+2024-01-04 13:09:00 [INFO] - 浏览器已关闭
+2024-01-04 13:09:01 [INFO] - 数据发送到Webhook成功
+2024-01-04 13:09:01 [INFO] - 抓取数据完成
+2024-01-04 13:09:01 [INFO] - 定时任务执行结束
+2024-01-04 13:27:31 [INFO] - 开始执行定时任务
+2024-01-04 13:27:31 [INFO] - 启动浏览器
+2024-01-04 13:27:32 [INFO] - 浏览器启动，耗时: 1248ms
+2024-01-04 13:27:32 [INFO] - 打开新页面
+2024-01-04 13:27:32 [INFO] - 新页面打开，耗时: 0ms
+2024-01-04 13:27:32 [INFO] - 导航到网页
+2024-01-04 13:27:46 [INFO] - 导航完成，耗时: 13303ms
+2024-01-04 13:27:46 [INFO] - Current Index: -1.404, Date Info: Mon. Jan. 01, 2024 (not seasonally adjusted), Formatted Date: Monday, 01/01/2024
+2024-01-04 13:27:46 [INFO] - Waited for 47.801200000569224 milliseconds for '#container1'
+2024-01-04 13:27:47 [INFO] - Screenshot saved at: screenshot.png
+2024-01-04 13:27:47 [INFO] - 浏览器已关闭
+2024-01-04 13:27:48 [INFO] - 数据发送到Webhook成功
+2024-01-04 13:27:48 [INFO] - 抓取数据完成
+2024-01-04 13:27:48 [INFO] - 定时任务执行结束
+2024-01-04 13:28:31 [INFO] - 开始执行定时任务
+2024-01-04 13:28:31 [INFO] - 启动浏览器
+2024-01-04 13:28:32 [INFO] - 浏览器启动，耗时: 848ms
+2024-01-04 13:28:32 [INFO] - 打开新页面
+2024-01-04 13:28:32 [INFO] - 新页面打开，耗时: 0ms
+2024-01-04 13:28:33 [INFO] - 导航到网页
+2024-01-04 13:28:44 [INFO] - 导航完成，耗时: 11786ms
+2024-01-04 13:28:45 [INFO] - Current Index: -1.404, Date Info: Mon. Jan. 01, 2024 (not seasonally adjusted), Formatted Date: Monday, 01/01/2024
+2024-01-04 13:28:45 [INFO] - Waited for 65.41779999993742 milliseconds for '#container1'
+2024-01-04 13:28:45 [INFO] - Screenshot saved at: screenshot.png
+2024-01-04 13:28:46 [INFO] - 浏览器已关闭
+2024-01-04 13:28:46 [INFO] - 数据发送到Webhook成功
+2024-01-04 13:28:46 [INFO] - 抓取数据完成
+2024-01-04 13:28:46 [INFO] - 定时任务执行结束
+2024-01-04 13:30:07 [INFO] - 开始执行定时任务
+2024-01-04 13:30:07 [INFO] - 启动浏览器
+2024-01-04 13:30:08 [INFO] - 浏览器启动，耗时: 1186ms
+2024-01-04 13:30:08 [INFO] - 打开新页面
+2024-01-04 13:30:08 [INFO] - 新页面打开，耗时: 0ms
+2024-01-04 13:30:08 [INFO] - 导航到网页
+2024-01-04 13:30:20 [INFO] - 导航完成，耗时: 11541ms
+2024-01-04 13:30:20 [INFO] - Current Index: -1.404, Date Info: Mon. Jan. 01, 2024 (not seasonally adjusted), Formatted Date: Monday, 01/01/2024
+2024-01-04 13:30:25 [ERROR] - 抓取数据时发生错误: screenshotPath is not defined
+2024-01-04 13:30:25 [ERROR] - 抓取过程中发生错误
+2024-01-04 13:30:25 [INFO] - 定时任务执行结束
+2024-01-04 13:31:05 [INFO] - 开始执行定时任务
+2024-01-04 13:31:05 [INFO] - 启动浏览器
+2024-01-04 13:31:06 [INFO] - 浏览器启动，耗时: 814ms
+2024-01-04 13:31:06 [INFO] - 打开新页面
+2024-01-04 13:31:06 [INFO] - 新页面打开，耗时: 0ms
+2024-01-04 13:31:06 [INFO] - 导航到网页
+2024-01-04 13:31:19 [INFO] - 导航完成，耗时: 12974ms
+2024-01-04 13:31:19 [INFO] - Current Index: -1.404, Date Info: Mon. Jan. 01, 2024 (not seasonally adjusted), Formatted Date: Monday, 01/01/2024
+2024-01-04 13:31:30 [INFO] - Screenshot saved at: screenshot.png
+2024-01-04 13:31:30 [INFO] - 浏览器已关闭
+2024-01-04 13:31:31 [INFO] - 数据发送到Webhook成功
+2024-01-04 13:31:31 [INFO] - 抓取数据完成
+2024-01-04 13:31:31 [INFO] - 定时任务执行结束
+2024-01-04 13:41:09 [INFO] - 开始执行定时任务
+2024-01-04 13:41:09 [INFO] - 启动浏览器
+2024-01-04 13:41:10 [INFO] - 浏览器启动，耗时: 1569ms
+2024-01-04 13:41:10 [INFO] - 打开新页面
+2024-01-04 13:41:10 [INFO] - 新页面打开，耗时: 0ms
+2024-01-04 13:41:11 [INFO] - 导航到网页
+2024-01-04 13:41:26 [INFO] - 导航完成，耗时: 14880ms
+2024-01-04 13:41:26 [INFO] - Current Index: -1.404, Date Info: Mon. Jan. 01, 2024 (not seasonally adjusted), Formatted Date: Monday, 01/01/2024
+2024-01-04 13:41:38 [INFO] - Screenshot saved at: screenshot.png
+2024-01-04 13:41:38 [INFO] - 浏览器已关闭
+2024-01-04 13:41:39 [INFO] - 数据发送到Webhook成功
+2024-01-04 13:41:39 [INFO] - 抓取数据完成
+2024-01-04 13:41:39 [INFO] - 定时任务执行结束
+2024-01-04 13:42:39 [INFO] - 开始执行定时任务
+2024-01-04 13:42:39 [INFO] - 启动浏览器
+2024-01-04 13:42:41 [INFO] - 浏览器启动，耗时: 1629ms
+2024-01-04 13:42:41 [INFO] - 打开新页面
+2024-01-04 13:42:41 [INFO] - 新页面打开，耗时: 0ms
+2024-01-04 13:42:41 [INFO] - 导航到网页
+2024-01-04 13:42:56 [INFO] - 导航完成，耗时: 14868ms
+2024-01-04 13:42:57 [INFO] - Current Index: -1.404, Date Info: Mon. Jan. 01, 2024 (not seasonally adjusted), Formatted Date: Monday, 01/01/2024
+2024-01-04 13:43:08 [INFO] - Screenshot saved at: screenshot.png
+2024-01-04 13:43:08 [INFO] - 浏览器已关闭
+2024-01-04 13:43:09 [INFO] - 数据发送到Webhook成功
+2024-01-04 13:43:09 [INFO] - 抓取数据完成
+2024-01-04 13:43:09 [INFO] - 定时任务执行结束
+2024-01-04 13:43:37 [INFO] - 开始执行定时任务
+2024-01-04 13:43:37 [INFO] - 启动浏览器
+2024-01-04 13:43:38 [INFO] - 浏览器启动，耗时: 1311ms
+2024-01-04 13:43:38 [INFO] - 打开新页面
+2024-01-04 13:43:38 [INFO] - 新页面打开，耗时: 0ms
+2024-01-04 13:43:39 [INFO] - 导航到网页
+2024-01-04 13:44:00 [INFO] - 导航完成，耗时: 20903ms
+2024-01-04 13:44:00 [INFO] - Current Index: -1.404, Date Info: Mon. Jan. 01, 2024 (not seasonally adjusted), Formatted Date: Monday, 01/01/2024
+2024-01-04 13:44:11 [INFO] - Screenshot saved at: screenshot.png
+2024-01-04 13:44:12 [INFO] - 浏览器已关闭
+2024-01-04 13:44:12 [INFO] - 数据发送到Webhook成功
+2024-01-04 13:44:12 [INFO] - 抓取数据完成
+2024-01-04 13:44:12 [INFO] - 定时任务执行结束
+2024-01-04 13:49:29 [INFO] - 开始执行定时任务
+2024-01-04 13:49:29 [INFO] - 启动浏览器
+2024-01-04 13:49:30 [INFO] - 浏览器启动，耗时: 1415ms
+2024-01-04 13:49:30 [INFO] - 打开新页面
+2024-01-04 13:49:30 [INFO] - 新页面打开，耗时: 0ms
+2024-01-04 13:49:31 [INFO] - 导航到网页
+2024-01-04 13:49:46 [INFO] - 导航完成，耗时: 15541ms
+2024-01-04 13:49:47 [INFO] - Current Index: -1.404, Date Info: Mon. Jan. 01, 2024 (not seasonally adjusted), Formatted Date: Monday, 01/01/2024
+2024-01-04 13:49:58 [INFO] - Screenshot saved at: screenshot.png
+2024-01-04 13:49:59 [INFO] - 浏览器已关闭
+2024-01-04 13:49:59 [INFO] - 数据发送到Webhook成功
+2024-01-04 13:50:00 [INFO] - Image sent to Webhook successfully
+2024-01-04 13:50:00 [INFO] - 抓取数据完成
+2024-01-04 13:50:00 [INFO] - 定时任务执行结束
+2024-01-04 13:51:44 [INFO] - 开始执行定时任务
+2024-01-04 13:51:44 [INFO] - 启动浏览器
+2024-01-04 13:51:46 [INFO] - 浏览器启动，耗时: 1239ms
+2024-01-04 13:51:46 [INFO] - 打开新页面
+2024-01-04 13:51:46 [INFO] - 新页面打开，耗时: 0ms
+2024-01-04 13:51:46 [INFO] - 导航到网页
+2024-01-04 13:52:01 [INFO] - 导航完成，耗时: 15120ms
+2024-01-04 13:52:02 [INFO] - Current Index: -1.404, Date Info: Mon. Jan. 01, 2024 (not seasonally adjusted), Formatted Date: Monday, 01/01/2024
+2024-01-04 13:52:13 [INFO] - Screenshot saved at: screenshot.png
+2024-01-04 13:52:14 [INFO] - 浏览器已关闭
+2024-01-04 13:52:14 [INFO] - 数据发送到Webhook成功
+2024-01-04 13:52:14 [INFO] - 抓取数据完成
+2024-01-04 13:52:14 [INFO] - 定时任务执行结束
+2024-01-04 13:52:15 [INFO] - Image sent to Webhook successfully
+2024-01-04 14:00:01 [INFO] - 开始执行定时任务
+2024-01-04 14:00:01 [INFO] - 启动浏览器
+2024-01-04 14:00:03 [INFO] - 浏览器启动，耗时: 1195ms
+2024-01-04 14:00:03 [INFO] - 打开新页面
+2024-01-04 14:00:03 [INFO] - 新页面打开，耗时: 0ms
+2024-01-04 14:00:03 [INFO] - 导航到网页
+2024-01-04 14:00:17 [INFO] - 导航完成，耗时: 14133ms
+2024-01-04 14:00:18 [INFO] - Current Index: -1.404, Date Info: Mon. Jan. 01, 2024 (not seasonally adjusted), Formatted Date: Monday, 01/01/2024
+2024-01-04 14:00:18 [INFO] - Screenshot saved at: screenshot.png
+2024-01-04 14:00:18 [INFO] - 浏览器已关闭
+2024-01-04 14:00:18 [INFO] - Base64 Image: 
+2024-01-04 14:00:18 [INFO] - MD5 Hash: 
+2024-01-04 14:00:18 [INFO] - Post Data: 
+2024-01-04 14:00:19 [INFO] - 抓取数据完成
+2024-01-04 14:00:19 [INFO] - 定时任务执行结束
+2024-01-04 14:00:19 [INFO] - Image sent to Webhook successfully
+2024-01-04 14:01:30 [INFO] - 开始执行定时任务
+2024-01-04 14:01:30 [INFO] - 启动浏览器
+2024-01-04 14:01:31 [INFO] - 浏览器启动，耗时: 1244ms
+2024-01-04 14:01:31 [INFO] - 打开新页面
+2024-01-04 14:01:31 [INFO] - 新页面打开，耗时: 0ms
+2024-01-04 14:01:32 [INFO] - 导航到网页
+2024-01-04 14:01:47 [INFO] - 导航完成，耗时: 15101ms
+2024-01-04 14:01:47 [INFO] - Current Index: -1.404, Date Info: Mon. Jan. 01, 2024 (not seasonally adjusted), Formatted Date: Monday, 01/01/2024
+2024-01-04 14:01:47 [INFO] - Screenshot saved at: screenshot.png
+2024-01-04 14:01:48 [INFO] - 浏览器已关闭
+2024-01-04 14:01:48 [INFO] - Length of Base64 Image: 
+2024-01-04 14:01:48 [INFO] - Length of MD5 Hash: 
+2024-01-04 14:01:48 [INFO] - Post Data: 
+2024-01-04 14:01:48 [INFO] - 抓取数据完成
+2024-01-04 14:01:48 [INFO] - 定时任务执行结束
+2024-01-04 14:01:49 [INFO] - Image sent to Webhook successfully
+2024-01-04 14:03:18 [INFO] - 开始执行定时任务
+2024-01-04 14:03:18 [INFO] - 启动浏览器
+2024-01-04 14:03:20 [INFO] - 浏览器启动，耗时: 1248ms
+2024-01-04 14:03:20 [INFO] - 打开新页面
+2024-01-04 14:03:20 [INFO] - 新页面打开，耗时: 0ms
+2024-01-04 14:03:20 [INFO] - 导航到网页
+2024-01-04 14:03:37 [INFO] - 导航完成，耗时: 17259ms
+2024-01-04 14:03:38 [INFO] - Current Index: -1.404, Date Info: Mon. Jan. 01, 2024 (not seasonally adjusted), Formatted Date: Monday, 01/01/2024
+2024-01-04 14:03:38 [INFO] - Screenshot saved at: screenshot.png
+2024-01-04 14:03:38 [INFO] - 浏览器已关闭
+2024-01-04 14:03:38 [INFO] - Length of Base64 Image: 
+2024-01-04 14:03:38 [INFO] - Length of MD5 Hash: 
+2024-01-04 14:03:38 [INFO] - Post Data: 
+2024-01-04 14:03:38 [INFO] - 抓取数据完成
+2024-01-04 14:03:38 [INFO] - 定时任务执行结束
+2024-01-04 14:03:39 [INFO] - Image sent to Webhook successfully
+2024-01-04 14:08:56 [INFO] - 开始执行定时任务
+2024-01-04 14:08:56 [INFO] - 启动浏览器
+2024-01-04 14:08:57 [INFO] - 浏览器启动，耗时: 1210ms
+2024-01-04 14:08:57 [INFO] - 打开新页面
+2024-01-04 14:08:58 [INFO] - 新页面打开，耗时: 0ms
+2024-01-04 14:08:58 [INFO] - 导航到网页
+2024-01-04 14:09:13 [INFO] - 导航完成，耗时: 15123ms
+2024-01-04 14:09:14 [INFO] - Current Index: -1.404, Date Info: Mon. Jan. 01, 2024 (not seasonally adjusted), Formatted Date: Monday, 01/01/2024
+2024-01-04 14:09:14 [INFO] - Screenshot saved at: screenshot.png
+2024-01-04 14:09:14 [INFO] - 浏览器已关闭
+2024-01-04 14:09:14 [INFO] - Image buffer length: 
+2024-01-04 14:09:14 [INFO] - Base64 Image length: 
+2024-01-04 14:09:14 [INFO] - MD5 Hash length: 
+2024-01-04 14:09:14 [INFO] - Post Data: 
+2024-01-04 14:09:14 [INFO] - 抓取数据完成
+2024-01-04 14:09:14 [INFO] - 定时任务执行结束
+2024-01-04 14:09:15 [INFO] - Image sent to Webhook successfully
+2024-01-04 14:10:15 [INFO] - 开始执行定时任务
+2024-01-04 14:10:15 [INFO] - 启动浏览器
+2024-01-04 14:10:16 [INFO] - 浏览器启动，耗时: 1158ms
+2024-01-04 14:10:16 [INFO] - 打开新页面
+2024-01-04 14:10:16 [INFO] - 新页面打开，耗时: 0ms
+2024-01-04 14:10:16 [INFO] - 导航到网页
+2024-01-04 14:10:33 [INFO] - 导航完成，耗时: 16625ms
+2024-01-04 14:10:34 [INFO] - Current Index: -1.404, Date Info: Mon. Jan. 01, 2024 (not seasonally adjusted), Formatted Date: Monday, 01/01/2024
+2024-01-04 14:10:34 [INFO] - Screenshot saved at: screenshot.png
+2024-01-04 14:10:34 [INFO] - 浏览器已关闭
+2024-01-04 14:10:34 [INFO] - Length of Base64 Image: 
+2024-01-04 14:10:34 [INFO] - Length of MD5 Hash: 
+2024-01-04 14:10:34 [INFO] - Post Data: 
+2024-01-04 14:10:34 [INFO] - 抓取数据完成
+2024-01-04 14:10:34 [INFO] - 定时任务执行结束
+2024-01-04 14:10:35 [INFO] - Image sent to Webhook successfully
+2024-01-04 14:12:29 [INFO] - 开始执行定时任务
+2024-01-04 14:12:29 [INFO] - 启动浏览器
+2024-01-04 14:12:30 [INFO] - 浏览器启动，耗时: 1312ms
+2024-01-04 14:12:30 [INFO] - 打开新页面
+2024-01-04 14:12:30 [INFO] - 新页面打开，耗时: 0ms
+2024-01-04 14:12:31 [INFO] - 导航到网页
+2024-01-04 14:12:46 [INFO] - 导航完成，耗时: 15686ms
+2024-01-04 14:12:47 [INFO] - Current Index: -1.404, Date Info: Mon. Jan. 01, 2024 (not seasonally adjusted), Formatted Date: Monday, 01/01/2024
+2024-01-04 14:12:47 [INFO] - Screenshot saved at: screenshot.png
+2024-01-04 14:12:47 [INFO] - 浏览器已关闭
+2024-01-04 14:12:47 [INFO] - Image buffer length: 
+2024-01-04 14:12:47 [INFO] - Length of Base64 Image: 
+2024-01-04 14:12:47 [INFO] - Length of MD5 Hash: 
+2024-01-04 14:12:47 [INFO] - Post Data: 
+2024-01-04 14:12:47 [INFO] - 抓取数据完成
+2024-01-04 14:12:47 [INFO] - 定时任务执行结束
+2024-01-04 14:12:48 [INFO] - Image sent to Webhook successfully
+2024-01-04 15:46:15 [INFO] - 开始执行定时任务
+2024-01-04 15:46:15 [INFO] - 启动浏览器
+2024-01-04 15:46:33 [INFO] - 浏览器启动，耗时: 17631ms
+2024-01-04 15:46:33 [INFO] - 打开新页面
+2024-01-04 15:46:33 [INFO] - 新页面打开，耗时: 0ms
+2024-01-04 15:46:33 [INFO] - 导航到网页
+2024-01-04 15:46:48 [INFO] - 导航完成，耗时: 14635ms
+2024-01-04 15:46:48 [INFO] - Current Index: -1.404, Date Info: Mon. Jan. 01, 2024 (not seasonally adjusted), Formatted Date: Monday, 01/01/2024
+2024-01-04 15:46:48 [INFO] - Screenshot saved at: screenshot.png
+2024-01-04 15:46:49 [INFO] - 浏览器已关闭
+2024-01-04 15:46:49 [INFO] - 抓取数据完成
+2024-01-04 15:46:49 [INFO] - 定时任务执行结束
+2024-01-04 15:46:50 [INFO] - Image sent to Webhook successfully
+2024-01-04 15:59:47 [INFO] - 开始执行定时任务
+2024-01-04 15:59:47 [INFO] - 启动浏览器
+2024-01-04 15:59:49 [INFO] - 浏览器启动，耗时: 1686ms
+2024-01-04 15:59:49 [INFO] - 打开新页面
+2024-01-04 15:59:49 [INFO] - 新页面打开，耗时: 0ms
+2024-01-04 15:59:50 [INFO] - 导航到网页
+2024-01-04 16:00:06 [INFO] - 导航完成，耗时: 15830ms
+2024-01-04 16:00:06 [INFO] - Current Index: -1.404, Date Info: Mon. Jan. 01, 2024 (not seasonally adjusted), Formatted Date: Monday, 01/01/2024
+2024-01-04 16:00:18 [INFO] - Screenshot saved at: screenshot.png
+2024-01-04 16:00:18 [INFO] - 浏览器已关闭
+2024-01-04 16:00:19 [INFO] - 数据发送到Webhook成功
+2024-01-04 16:00:19 [INFO] - 抓取数据完成
+2024-01-04 16:00:19 [INFO] - 定时任务执行结束
+2024-01-04 16:07:08 [INFO] - 开始执行定时任务
+2024-01-04 16:07:08 [INFO] - 启动浏览器
+2024-01-04 16:07:09 [INFO] - 浏览器启动，耗时: 1355ms
+2024-01-04 16:07:09 [INFO] - 打开新页面
+2024-01-04 16:07:09 [INFO] - 新页面打开，耗时: 0ms
+2024-01-04 16:07:09 [INFO] - 导航到网页
+2024-01-04 16:07:25 [INFO] - 导航完成，耗时: 15597ms
+2024-01-04 16:07:25 [INFO] - Current Index: -1.404, Date Info: Mon. Jan. 01, 2024 (not seasonally adjusted), Formatted Date: Monday, 01/01/2024
+2024-01-04 16:07:37 [INFO] - Screenshot saved at: screenshot.png
+2024-01-04 16:07:37 [INFO] - 浏览器已关闭
+2024-01-04 16:07:38 [INFO] - 数据发送到Webhook成功
+2024-01-04 16:07:38 [INFO] - 抓取数据完成
+2024-01-04 16:07:38 [INFO] - 定时任务执行结束
+2024-01-04 16:07:39 [INFO] - Image sent to Webhook successfully
+2024-01-04 16:09:47 [INFO] - 开始执行定时任务
+2024-01-04 16:09:47 [INFO] - 启动浏览器
+2024-01-04 16:09:49 [INFO] - 浏览器启动，耗时: 1284ms
+2024-01-04 16:09:49 [INFO] - 打开新页面
+2024-01-04 16:09:49 [INFO] - 新页面打开，耗时: 0ms
+2024-01-04 16:09:49 [INFO] - 导航到网页
+2024-01-04 16:10:05 [INFO] - 导航完成，耗时: 15658ms
+2024-01-04 16:10:06 [INFO] - Current Index: -1.404, Date Info: Mon. Jan. 01, 2024 (not seasonally adjusted), Formatted Date: Monday, 01/01/2024
+2024-01-04 16:10:17 [INFO] - Screenshot saved at: screenshot.png
+2024-01-04 16:10:17 [INFO] - 浏览器已关闭
+2024-01-04 16:10:18 [INFO] - Response status: 
+2024-01-04 16:10:18 [INFO] - Response status text: 
+2024-01-04 16:10:18 [INFO] - Response headers: 
+2024-01-04 16:10:18 [INFO] - Response data: 
+2024-01-04 16:10:18 [INFO] - 抓取数据完成
+2024-01-04 16:10:18 [INFO] - 定时任务执行结束
+2024-01-04 16:10:18 [INFO] - Image sent to Webhook successfully
+2024-01-04 16:12:26 [INFO] - 开始执行定时任务
+2024-01-04 16:12:26 [INFO] - 启动浏览器
+2024-01-04 16:12:27 [INFO] - 浏览器启动，耗时: 1321ms
+2024-01-04 16:12:27 [INFO] - 打开新页面
+2024-01-04 16:12:27 [INFO] - 新页面打开，耗时: 0ms
+2024-01-04 16:12:28 [INFO] - 导航到网页
+2024-01-04 16:12:43 [INFO] - 导航完成，耗时: 15830ms
+2024-01-04 16:12:44 [INFO] - Current Index: -1.404, Date Info: Mon. Jan. 01, 2024 (not seasonally adjusted), Formatted Date: Monday, 01/01/2024
+2024-01-04 16:12:55 [INFO] - Screenshot saved at: screenshot.png
+2024-01-04 16:12:56 [INFO] - 浏览器已关闭
+2024-01-04 16:12:56 [INFO] - Response status: 200
+2024-01-04 16:12:56 [INFO] - Response status text: OK
+2024-01-04 16:12:56 [INFO] - Response headers: {"date":"Thu, 04 Jan 2024 08:12:56 GMT","content-type":"application/json; charset=UTF-8","content-length":"27","connection":"close","server":"nginx","error-code":"0","error-msg":"ok","x-w-no":"5"}
+2024-01-04 16:12:56 [INFO] - Response data: {"errcode":0,"errmsg":"ok"}
+2024-01-04 16:12:56 [INFO] - 抓取数据完成
+2024-01-04 16:12:56 [INFO] - 定时任务执行结束
+2024-01-04 16:12:57 [INFO] - Image sent to Webhook successfully
+2024-01-04 16:14:27 [INFO] - 开始执行定时任务
+2024-01-04 16:14:27 [INFO] - 启动浏览器
+2024-01-04 16:14:28 [INFO] - 浏览器启动，耗时: 1211ms
+2024-01-04 16:14:28 [INFO] - 打开新页面
+2024-01-04 16:14:28 [INFO] - 新页面打开，耗时: 0ms
+2024-01-04 16:14:29 [INFO] - 导航到网页
+2024-01-04 16:14:48 [INFO] - 导航完成，耗时: 19061ms
+2024-01-04 16:14:48 [INFO] - Current Index: -1.404, Date Info: Mon. Jan. 01, 2024 (not seasonally adjusted), Formatted Date: Monday, 01/01/2024
+2024-01-04 16:15:00 [INFO] - Screenshot saved at: screenshot.png
+2024-01-04 16:15:00 [INFO] - 浏览器已关闭
+2024-01-04 16:15:01 [INFO] - Response status: 200
+2024-01-04 16:15:01 [INFO] - Response status text: OK
+2024-01-04 16:15:01 [INFO] - Response headers: {"date":"Thu, 04 Jan 2024 08:15:01 GMT","content-type":"application/json; charset=UTF-8","content-length":"27","connection":"close","server":"nginx","error-code":"0","error-msg":"ok","x-w-no":"7"}
+2024-01-04 16:15:01 [INFO] - Response data: {"errcode":0,"errmsg":"ok"}
+2024-01-04 16:15:01 [INFO] - 抓取数据完成
+2024-01-04 16:15:01 [INFO] - 定时任务执行结束
+2024-01-04 16:15:02 [INFO] - Image sent to Webhook successfully{"errcode":0,"errmsg":"ok"}
+2024-01-06 20:12:15 [INFO] - 开始执行定时任务
+2024-01-06 20:12:15 [INFO] - 启动浏览器
+2024-01-06 20:12:35 [INFO] - 浏览器启动，耗时: 19618ms
+2024-01-06 20:12:35 [INFO] - 导航到网页
+2024-01-06 20:13:02 [INFO] - 导航完成，耗时: 27059ms
+2024-01-06 20:13:03 [INFO] - Current Index: -1.238, Date Info: Wed. Jan. 03, 2024 (not seasonally adjusted), Formatted Date: Wednesday, 01/03/2024
+2024-01-06 20:13:24 [INFO] - Screenshot saved at: screenshot.png
+2024-01-06 20:13:24 [INFO] - 浏览器已关闭
+2024-01-06 20:13:25 [INFO] - Response status: 200
+2024-01-06 20:13:25 [INFO] - Response status text: OK
+2024-01-06 20:13:25 [INFO] - Response headers: {"date":"Sat, 06 Jan 2024 12:13:26 GMT","content-type":"application/json; charset=UTF-8","content-length":"27","connection":"close","server":"nginx","error-code":"0","error-msg":"ok","x-w-no":"3"}
+2024-01-06 20:13:25 [INFO] - Response data: {"errcode":0,"errmsg":"ok"}
+2024-01-06 20:13:25 [INFO] - 抓取数据完成
+2024-01-06 20:13:25 [INFO] - 定时任务执行结束
+2024-01-06 20:13:26 [INFO] - Image sent to Webhook successfully{"errcode":0,"errmsg":"ok"}
+2024-01-06 20:21:13 [INFO] - 开始执行定时任务
+2024-01-06 20:21:13 [INFO] - 启动浏览器
+2024-01-06 20:21:14 [INFO] - 浏览器启动，耗时: 1164ms
+2024-01-06 20:21:14 [INFO] - 导航到网页
+2024-01-06 20:21:35 [INFO] - 导航完成，耗时: 20933ms
+2024-01-06 20:21:35 [INFO] - Current Index: -1.238, Date Info: Wed. Jan. 03, 2024 (not seasonally adjusted), Formatted Date: Wednesday, 01/03/2024
+2024-01-06 20:21:57 [INFO] - Screenshot saved at: screenshot.png
+2024-01-06 20:21:57 [INFO] - 浏览器已关闭
+2024-01-06 20:21:58 [INFO] - Response status: 200
+2024-01-06 20:21:58 [INFO] - Response status text: OK
+2024-01-06 20:21:58 [INFO] - Response headers: {"date":"Sat, 06 Jan 2024 12:21:58 GMT","content-type":"application/json; charset=UTF-8","content-length":"27","connection":"close","server":"nginx","error-code":"0","error-msg":"ok","x-w-no":"3"}
+2024-01-06 20:21:58 [INFO] - Response data: {"errcode":0,"errmsg":"ok"}
+2024-01-06 20:21:58 [INFO] - 抓取数据完成
+2024-01-06 20:21:58 [INFO] - 定时任务执行结束
+2024-01-06 20:21:58 [INFO] - Image sent to Webhook successfully{"errcode":0,"errmsg":"ok"}
+2024-01-10 12:15:05 [INFO] - 开始执行定时任务
+2024-01-10 12:15:05 [INFO] - 启动浏览器
+2024-01-10 12:15:08 [INFO] - 浏览器启动，耗时: 3565ms
+2024-01-10 12:15:10 [INFO] - 导航到网页
+2024-01-10 12:16:10 [ERROR] - Attempt 1: page.goto failed with timeout 60000ms
+2024-01-10 12:16:10 [INFO] - Retrying navigation...
+2024-01-10 12:16:16 [INFO] - 导航完成，耗时: 66422ms
+2024-01-10 12:16:37 [INFO] - Current Index: -1.327, Date Info: Fri. Jan. 05, 2024 (not seasonally adjusted), Formatted Date: Friday, 01/05/2024
+2024-01-10 12:16:38 [INFO] - Screenshot saved at: screenshot.png
+2024-01-10 12:16:39 [INFO] - 浏览器已关闭
+2024-01-10 12:16:40 [INFO] - Response status: 200
+2024-01-10 12:16:40 [INFO] - Response status text: OK
+2024-01-10 12:16:40 [INFO] - Response headers: {"date":"Wed, 10 Jan 2024 04:16:40 GMT","content-type":"application/json; charset=UTF-8","content-length":"27","connection":"close","server":"nginx","error-code":"0","error-msg":"ok","x-w-no":"7"}
+2024-01-10 12:16:40 [INFO] - Response data: {"errcode":0,"errmsg":"ok"}
+2024-01-10 12:16:40 [INFO] - 抓取数据完成
+2024-01-10 12:16:40 [INFO] - 定时任务执行结束
+2024-01-10 12:16:40 [INFO] - Image sent to Webhook successfully{"errcode":0,"errmsg":"ok"}
+2024-01-10 16:37:04 [INFO] - 开始执行任务
+2024-01-10 16:37:04 [INFO] - 启动浏览器
+2024-01-10 16:37:08 [INFO] - 浏览器启动，耗时: 3183ms
+2024-01-10 16:37:08 [INFO] - 导航到网页
+2024-01-10 16:37:13 [ERROR] - Attempt 1: page.goto failed with timeout 60000ms
+2024-01-10 16:37:13 [INFO] - Retrying navigation...
+2024-01-10 16:37:13 [ERROR] - Attempt 2: page.goto failed with timeout 90000ms
+2024-01-10 16:37:13 [INFO] - Retrying navigation...
+2024-01-10 16:37:18 [ERROR] - Attempt 3: page.goto failed with timeout 120000ms
+2024-01-10 16:37:18 [INFO] - Retrying navigation...
+2024-01-10 16:37:18 [ERROR] - Attempt 4: page.goto failed with timeout 150000ms
+2024-01-10 16:37:18 [INFO] - Retrying navigation...
+2024-01-10 16:37:22 [ERROR] - Attempt 5: page.goto failed with timeout 180000ms
+2024-01-10 16:37:22 [ERROR] - 抓取数据时发生错误: page.goto failed after all retries
+2024-01-10 16:37:23 [INFO] - 浏览器已关闭
+2024-01-10 16:37:23 [ERROR] - page.goto failed after all retries
+2024-01-10 16:37:23 [INFO] - 等待5分钟后重试... (1/5)
+2024-01-10 16:43:11 [INFO] - main: 开始执行任务
+2024-01-10 16:43:11 [INFO] - scrapeData: 启动浏览器
+2024-01-10 16:43:12 [INFO] - scrapeData: 浏览器启动，耗时: 1113ms
+2024-01-10 16:43:12 [INFO] - 导scrapeData: 航到网页
+2024-01-10 16:43:17 [ERROR] - scrapeData: Attempt 1: page.goto failed with timeout 60000ms
+2024-01-10 16:43:17 [INFO] - RscrapeData: etrying navigation...
+2024-01-10 16:43:17 [ERROR] - scrapeData: Attempt 2: page.goto failed with timeout 90000ms
+2024-01-10 16:43:17 [INFO] - RscrapeData: etrying navigation...
+2024-01-10 16:43:22 [ERROR] - scrapeData: Attempt 3: page.goto failed with timeout 120000ms
+2024-01-10 16:43:22 [INFO] - RscrapeData: etrying navigation...
+2024-01-10 16:43:22 [ERROR] - scrapeData: Attempt 4: page.goto failed with timeout 150000ms
+2024-01-10 16:43:22 [INFO] - RscrapeData: etrying navigation...
+2024-01-10 16:43:26 [ERROR] - scrapeData: Attempt 5: page.goto failed with timeout 180000ms
+2024-01-10 16:43:26 [ERROR] - scrapeData: 抓取数据时发生错误: scrapeData: page.goto failed after all retries
+2024-01-10 16:43:27 [INFO] - scrapeData: 浏览器已关闭
+2024-01-10 16:43:27 [ERROR] - scrapeData: page.goto failed after all retries
+2024-01-10 16:43:27 [INFO] - main: 等待5分钟后重试... (1/5)
+2024-01-10 16:47:28 [INFO] - main: 开始执行任务
+2024-01-10 16:47:28 [INFO] - scrapeData: 启动浏览器
+2024-01-10 16:47:29 [INFO] - scrapeData: 浏览器启动，耗时: 1060ms
+2024-01-10 16:47:29 [INFO] - scrapeData: 导航到网页
+2024-01-10 16:47:34 [ERROR] - scrapeData: Attempt 1: page.goto failed with timeout 60000ms
+2024-01-10 16:47:34 [INFO] - scrapeData: Retrying navigation...
+2024-01-10 16:47:34 [ERROR] - scrapeData: Attempt 2: page.goto failed with timeout 90000ms
+2024-01-10 16:47:34 [INFO] - scrapeData: Retrying navigation...
+2024-01-10 16:47:39 [ERROR] - scrapeData: Attempt 3: page.goto failed with timeout 120000ms
+2024-01-10 16:47:39 [INFO] - scrapeData: Retrying navigation...
+2024-01-10 16:47:39 [ERROR] - scrapeData: Attempt 4: page.goto failed with timeout 150000ms
+2024-01-10 16:47:39 [INFO] - scrapeData: Retrying navigation...
+2024-01-10 16:47:44 [ERROR] - scrapeData: Attempt 5: page.goto failed with timeout 180000ms
+2024-01-10 16:47:44 [ERROR] - scrapeData: 抓取数据时发生错误: scrapeData: page.goto failed after all retries
+2024-01-10 16:47:44 [INFO] - scrapeData: 浏览器已关闭
+2024-01-10 16:47:44 [ERROR] - scrapeData: page.goto failed after all retries
+2024-01-10 16:47:44 [INFO] - main: 等待5分钟后重试... (1/5)
+2024-01-10 16:47:45 [INFO] - main: 开始执行任务
+2024-01-10 16:47:45 [INFO] - scrapeData: 启动浏览器
+2024-01-10 16:47:46 [INFO] - scrapeData: 浏览器启动，耗时: 1009ms
+2024-01-10 16:47:46 [INFO] - scrapeData: 导航到网页
+2024-01-10 16:47:51 [ERROR] - scrapeData: Attempt 1: page.goto failed with timeout 60000ms
+2024-01-10 16:47:51 [INFO] - scrapeData: Retrying navigation...
+2024-01-10 16:47:51 [ERROR] - scrapeData: Attempt 2: page.goto failed with timeout 90000ms
+2024-01-10 16:47:51 [INFO] - scrapeData: Retrying navigation...
+2024-01-10 16:47:56 [ERROR] - scrapeData: Attempt 3: page.goto failed with timeout 120000ms
+2024-01-10 16:47:56 [INFO] - scrapeData: Retrying navigation...
+2024-01-10 16:47:56 [ERROR] - scrapeData: Attempt 4: page.goto failed with timeout 150000ms
+2024-01-10 16:47:56 [INFO] - scrapeData: Retrying navigation...
+2024-01-10 16:48:01 [ERROR] - scrapeData: Attempt 5: page.goto failed with timeout 180000ms
+2024-01-10 16:48:01 [ERROR] - scrapeData: 抓取数据时发生错误: scrapeData: page.goto failed after all retries
+2024-01-10 16:48:01 [INFO] - scrapeData: 浏览器已关闭
+2024-01-10 16:48:01 [ERROR] - scrapeData: page.goto failed after all retries
+2024-01-10 16:48:01 [INFO] - main: 等待5分钟后重试... (2/5)
+2024-01-10 16:48:02 [INFO] - main: 开始执行任务
+2024-01-10 16:48:02 [INFO] - scrapeData: 启动浏览器
+2024-01-10 16:48:03 [INFO] - scrapeData: 浏览器启动，耗时: 1011ms
+2024-01-10 16:48:04 [INFO] - scrapeData: 导航到网页
+2024-01-10 16:48:08 [ERROR] - scrapeData: Attempt 1: page.goto failed with timeout 60000ms
+2024-01-10 16:48:08 [INFO] - scrapeData: Retrying navigation...
+2024-01-10 16:48:09 [ERROR] - scrapeData: Attempt 2: page.goto failed with timeout 90000ms
+2024-01-10 16:48:09 [INFO] - scrapeData: Retrying navigation...
+2024-01-10 16:48:13 [ERROR] - scrapeData: Attempt 3: page.goto failed with timeout 120000ms
+2024-01-10 16:48:13 [INFO] - scrapeData: Retrying navigation...
+2024-01-10 16:48:13 [ERROR] - scrapeData: Attempt 4: page.goto failed with timeout 150000ms
+2024-01-10 16:48:13 [INFO] - scrapeData: Retrying navigation...
+2024-01-10 16:48:18 [ERROR] - scrapeData: Attempt 5: page.goto failed with timeout 180000ms
+2024-01-10 16:48:18 [ERROR] - scrapeData: 抓取数据时发生错误: scrapeData: page.goto failed after all retries
+2024-01-10 16:48:18 [INFO] - scrapeData: 浏览器已关闭
+2024-01-10 16:48:18 [ERROR] - scrapeData: page.goto failed after all retries
+2024-01-10 16:48:18 [INFO] - main: 等待5分钟后重试... (3/5)
+2024-01-10 16:48:19 [INFO] - main: 开始执行任务
+2024-01-10 16:48:19 [INFO] - scrapeData: 启动浏览器
+2024-01-10 16:48:21 [INFO] - scrapeData: 浏览器启动，耗时: 1131ms
+2024-01-10 16:48:21 [INFO] - scrapeData: 导航到网页
+2024-01-10 16:48:26 [ERROR] - scrapeData: Attempt 1: page.goto failed with timeout 60000ms
+2024-01-10 16:48:26 [INFO] - scrapeData: Retrying navigation...
+2024-01-10 16:48:26 [ERROR] - scrapeData: Attempt 2: page.goto failed with timeout 90000ms
+2024-01-10 16:48:26 [INFO] - scrapeData: Retrying navigation...
+2024-01-10 16:48:30 [ERROR] - scrapeData: Attempt 3: page.goto failed with timeout 120000ms
+2024-01-10 16:48:30 [INFO] - scrapeData: Retrying navigation...
+2024-01-10 16:48:31 [ERROR] - scrapeData: Attempt 4: page.goto failed with timeout 150000ms
+2024-01-10 16:48:31 [INFO] - scrapeData: Retrying navigation...
+2024-01-10 16:48:35 [ERROR] - scrapeData: Attempt 5: page.goto failed with timeout 180000ms
+2024-01-10 16:48:35 [ERROR] - scrapeData: 抓取数据时发生错误: scrapeData: page.goto failed after all retries
+2024-01-10 16:48:36 [INFO] - scrapeData: 浏览器已关闭
+2024-01-10 16:48:36 [ERROR] - scrapeData: page.goto failed after all retries
+2024-01-10 16:48:36 [INFO] - main: 等待5分钟后重试... (4/5)
+2024-01-10 16:48:37 [INFO] - main: 开始执行任务
+2024-01-10 16:48:37 [INFO] - scrapeData: 启动浏览器
+2024-01-10 16:48:38 [INFO] - scrapeData: 浏览器启动，耗时: 1111ms
+2024-01-10 16:48:38 [INFO] - scrapeData: 导航到网页
+2024-01-10 16:48:43 [ERROR] - scrapeData: Attempt 1: page.goto failed with timeout 60000ms
+2024-01-10 16:48:43 [INFO] - scrapeData: Retrying navigation...
+2024-01-10 16:48:43 [ERROR] - scrapeData: Attempt 2: page.goto failed with timeout 90000ms
+2024-01-10 16:48:43 [INFO] - scrapeData: Retrying navigation...
+2024-01-10 16:48:48 [ERROR] - scrapeData: Attempt 3: page.goto failed with timeout 120000ms
+2024-01-10 16:48:48 [INFO] - scrapeData: Retrying navigation...
+2024-01-10 16:48:48 [ERROR] - scrapeData: Attempt 4: page.goto failed with timeout 150000ms
+2024-01-10 16:48:48 [INFO] - scrapeData: Retrying navigation...
+2024-01-10 16:48:53 [ERROR] - scrapeData: Attempt 5: page.goto failed with timeout 180000ms
+2024-01-10 16:48:53 [ERROR] - scrapeData: 抓取数据时发生错误: scrapeData: page.goto failed after all retries
+2024-01-10 16:48:53 [INFO] - scrapeData: 浏览器已关闭
+2024-01-10 16:48:59 [INFO] - main: 开始执行任务
+2024-01-10 16:48:59 [INFO] - scrapeData: 启动浏览器
+2024-01-10 16:49:00 [INFO] - scrapeData: 浏览器启动，耗时: 1233ms
+2024-01-10 16:49:01 [INFO] - scrapeData: 导航到网页
+2024-01-10 16:49:06 [ERROR] - scrapeData: Attempt 1: page.goto failed with timeout 60000ms
+2024-01-10 16:49:06 [INFO] - scrapeData: Retrying navigation...
+2024-01-10 16:49:06 [ERROR] - scrapeData: Attempt 2: page.goto failed with timeout 90000ms
+2024-01-10 16:49:06 [INFO] - scrapeData: Retrying navigation...
+2024-01-10 16:49:11 [ERROR] - scrapeData: Attempt 3: page.goto failed with timeout 120000ms
+2024-01-10 16:49:11 [INFO] - scrapeData: Retrying navigation...
+2024-01-10 16:49:11 [ERROR] - scrapeData: Attempt 4: page.goto failed with timeout 150000ms
+2024-01-10 16:49:11 [INFO] - scrapeData: Retrying navigation...
+2024-01-10 16:49:15 [ERROR] - scrapeData: Attempt 5: page.goto failed with timeout 180000ms
+2024-01-10 16:49:16 [ERROR] - scrapeData: 抓取数据时发生错误: scrapeData: page.goto failed after all retries
+2024-01-10 16:49:16 [INFO] - scrapeData: 浏览器已关闭
+2024-01-10 16:49:16 [ERROR] - scrapeData: page.goto failed after all retries
+2024-01-10 16:49:16 [INFO] - main: 等待5分钟后重试... (1/5)
+2024-01-10 16:49:17 [INFO] - main: 开始执行任务
+2024-01-10 16:49:17 [INFO] - scrapeData: 启动浏览器
+2024-01-10 16:49:18 [INFO] - scrapeData: 浏览器启动，耗时: 1184ms
+2024-01-10 16:49:19 [INFO] - scrapeData: 导航到网页
+2024-01-10 16:49:24 [ERROR] - scrapeData: Attempt 1: page.goto failed with timeout 60000ms
+2024-01-10 16:49:24 [INFO] - scrapeData: Retrying navigation...
+2024-01-10 16:49:24 [ERROR] - scrapeData: Attempt 2: page.goto failed with timeout 90000ms
+2024-01-10 16:49:24 [INFO] - scrapeData: Retrying navigation...
+2024-01-10 16:49:29 [ERROR] - scrapeData: Attempt 3: page.goto failed with timeout 120000ms
+2024-01-10 16:49:29 [INFO] - scrapeData: Retrying navigation...
+2024-01-10 16:49:29 [ERROR] - scrapeData: Attempt 4: page.goto failed with timeout 150000ms
+2024-01-10 16:49:29 [INFO] - scrapeData: Retrying navigation...
+2024-01-10 16:49:34 [ERROR] - scrapeData: Attempt 5: page.goto failed with timeout 180000ms
+2024-01-10 16:49:34 [ERROR] - scrapeData: 抓取数据时发生错误: scrapeData: page.goto failed after all retries
+2024-01-10 16:49:34 [INFO] - scrapeData: 浏览器已关闭
+2024-01-10 16:49:34 [ERROR] - scrapeData: page.goto failed after all retries
+2024-01-10 16:49:34 [INFO] - main: 等待5分钟后重试... (2/5)
+2024-01-10 16:49:35 [INFO] - main: 开始执行任务
+2024-01-10 16:49:35 [INFO] - scrapeData: 启动浏览器
+2024-01-10 16:49:37 [INFO] - scrapeData: 浏览器启动，耗时: 1410ms
+2024-01-10 16:49:37 [ERROR] - scrapeData: 抓取数据时发生错误: browser.newPage: Target page, context or browser has been closed
