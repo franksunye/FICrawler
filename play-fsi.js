@@ -26,10 +26,14 @@ const logger = winston.createLogger({
 });
 
 async function sendToWebhook(currentIndex, formattedDate) {
+  const dateParts = formattedDate.split(',')[1].trim().split('/');
+  const monthDay = `${parseInt(dateParts[0], 10)}月${parseInt(dateParts[1], 10)}日`;
+  const year = dateParts[2];
+  
   const postData = {
     msgtype: "text",
     text: {
-      content: `美国今日FSI指数 (Financial Stress Index) 是：${currentIndex}，指数发布时间 ${formattedDate}。FSI是一种衡量金融市场压力的指标。这个指数通常由美国各大银行或金融机构编制, 用于反映金融市场的整体状况, 包括流动性、信用风险和市场波动性等方面。`,
+      content: `${monthDay} 美国FSI指数 ${currentIndex}。指数发布时间 ${formattedDate}。美国FSI (Financial Stress Index) 是一种衡量金融市场压力的指标。这个指数通常由美国各大银行或金融机构编制, 用于反映金融市场的整体状况, 包括流动性、信用风险和市场波动性等方面。`,
       mentioned_mobile_list: [phoneNumber],
     },
   };
@@ -86,7 +90,7 @@ async function scrapeData() {
     logger.info("scrapeData: 启动浏览器");
     const startBrowserTime = new Date();
 
-    browser = await chromium.launch({ headless: false });
+    browser = await chromium.launch({ headless: true });
     logger.info(`scrapeData: 浏览器启动，耗时: ${new Date() - startBrowserTime}ms`);
 
     const page = await browser.newPage();
